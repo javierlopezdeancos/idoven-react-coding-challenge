@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import NxWelcome from './nx-welcome';
 
 const StyledApp = styled.div`
   // Your style here
@@ -8,7 +7,9 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      <NxWelcome title="idoven-react-coding-challenge" />
+      <header>
+        <h1>Idoven.ai Coding Challenge</h1>
+      </header>
     </StyledApp>
   );
 }
