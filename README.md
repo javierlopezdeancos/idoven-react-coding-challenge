@@ -110,6 +110,8 @@ const { beats, loading } = usePullBeatsByChannelService(
 );
 ```
 
+Yes, I use a `example3.csv` file with less data than the original `data.txt` take in to account that git can't upload large files.
+
 I understand that the proposal should be better designed and probably look for even better performance, it is simply an example and proposal of how I would start to think about the problem.
 
 ![chart ejample result](./readme/idoven.gif)
