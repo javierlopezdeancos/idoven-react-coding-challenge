@@ -114,3 +114,11 @@ I understand that the proposal should be better designed and probably look for e
 
 ![chart ejample result](./readme/idoven.gif)
 ![chart ejample two result](./readme/idoven2.gif)
+
+## Install the project
+
+Run `npm i` to install dependencies.
+
+## Run the project
+
+Run `npm start` and go to `http://localhost:4200/` in your localhost.
